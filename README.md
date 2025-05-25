@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Ritchieer/Ritchieer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ritchieer/Ritchieer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 
 # When Volatility Rises, I Don’t React — I Execute.
